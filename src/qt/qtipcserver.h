@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define PUNZ-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "PUNZURI"
+// Define Vital-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "VitalURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

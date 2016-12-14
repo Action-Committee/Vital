@@ -1,6 +1,6 @@
 
-PUNZ development tree
+Vital development tree
 
-PUNZ is a PoS-based cryptocurrency.
+Vital is a PoS-based cryptocurrency.
 
 
